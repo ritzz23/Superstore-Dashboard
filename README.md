@@ -1,6 +1,6 @@
 # Superstore Dashboard (Excel)
 
-**Author:** [Muhammad Ahyan]  
+**Author:** Muhammad Ahyan  
 **Tools:** Microsoft Exce
 
 📊 Dashboard ini menampilkan analisis penjualan:
